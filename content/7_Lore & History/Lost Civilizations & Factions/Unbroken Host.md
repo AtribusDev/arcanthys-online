@@ -1,0 +1,4 @@
+- Orc civilisation from the [[Age of Orcs]]
+- Martial Meritocracy
+	- The strongest and most capable rise.
+	- Higly competitive, respect is everything.

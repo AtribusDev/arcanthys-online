@@ -1,0 +1,2 @@
+[[TODO, YEARS]]
+The **Current Age** (also called the **Age of Wonders**) is the present historical period. It covers the discovery of [[Lumitech]], the rise and fall of [[The Dominion of Solvaris]], and the reshaping of global power after the [[Fleshfire]].

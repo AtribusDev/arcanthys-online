@@ -1,0 +1,1 @@
+The Arcane founder of [[The Dominion of Solvaris|Solvaris]].

@@ -1,0 +1,13 @@
+---
+aliases:
+  - Ages
+---
+- [[Age of Shaping]]
+	- When gods created the first mortals and fought the first war against each other.
+- [[Age of the Baneful]]
+	- When [[The Kelthrae]] twisted the live created by the gods into new things.
+- [[Age of the Deep]]
+	- When the world was flooded and the creatures from below grew dominant.
+- [[Age of Orcs]]
+- [[Current Age]]/[[Age of Wonders]]
+	- The present era, where new powers rise from the ruins of prior ages.
