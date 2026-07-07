@@ -8,6 +8,7 @@ aliases:
 >[!infobox | right no-table-header wikipedia]
 ># Noctyra
 > > [!caption|sban] Full width caption sizing
+>
 > ![[Noctyra, The Shadowfell.png| Banner+small]]
 >
 > | | |

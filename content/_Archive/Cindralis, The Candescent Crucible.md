@@ -7,6 +7,7 @@ aliases:
 >[!infobox | right no-table-header wikipedia]
 ># Cindralis
 > > [!caption|sban] Full width caption sizing
+>
 > ![[Cindralis, The Candescent  Crucible.png| Banner+small]]
 > 
 > | | |

@@ -2,6 +2,7 @@
 > # Name
 > > [!caption|sban] Full width caption sizing
 > > <font size=1>**Pronunciation**: CRAN-ock SEE-ver</font>
+>
 > ![[Uknown Npc.png| Banner+small ]]
 >  ###### Basic Information
 > | | |

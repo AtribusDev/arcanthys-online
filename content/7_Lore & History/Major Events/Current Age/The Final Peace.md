@@ -5,6 +5,7 @@ aliases:
 > [!infobox | right no-table-header wikipedia]
 > # The Final Peace
 > > [!caption|sban] Full width caption sizing
+>
 > ![[File_Not_Present.webp| Banner+small ]]
 >
 > | | |

@@ -8,6 +8,7 @@ aliases:
 >[!infobox | right no-table-header wikipedia]
 ># Fravalis
 > > [!caption|sban] Full width caption sizing
+>
 > ![[Fravalis, The Pale Expanse.png| Banner+small]]
 > 
 > | | |
