@@ -98,3 +98,19 @@ body .callout.callout[data-callout~="infobox"] > .callout-title .callout-icon {
   padding: 0 !important;
   width: 0 !important;
 }
+
+// Heading underlines (its-theme): h1–h6 draw their colored rule via a
+// full-width ::before/::after pseudo-element sized off --h#-border-line-width
+// (100%). A float doesn't shrink a normal block box's own border/background —
+// only inline text reflows around it — so on any page with a floated infobox,
+// that underline was drawn straight through/under the box instead of
+// stopping beside it, like a strikethrough across the image.
+//
+// `display: flow-root` gives each heading its own block formatting context,
+// which *does* shrink block boxes to avoid overlapping floats, without
+// clipping anything the way `overflow: hidden` would (so it won't cut off
+// the heading's hover-only anchor-link icon). Headings are already
+// block-level, so this doesn't otherwise change how they lay out.
+.markdown-preview-view :is(h1, h2, h3, h4, h5, h6) {
+  display: flow-root;
+}
