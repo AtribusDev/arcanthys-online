@@ -12,7 +12,7 @@ The wide adoption of Lumitech during the rise of the [[The Dominion of Solvaris]
 Lumitech was first developed by [[Aethren Solivar Draal]] in the early stages of the Dominion of Solvaris, on the continent of [[Solkarra]]. [[TODO, YEARS]] First used to aid their survival on the harsh island, its use was later adopted into all aspects of life. Lumitech played no small role in the empire's ascent as a world power.
 
 # Applications and Adaptation
-Lumitech has been broadly adopted in most nations that are part of [[TBD United Nations of Kaelvarra]], and is used in most aspects of daily life, from [[Cleansing Stones]] that clean a person without the need to bathe to alarm clocks and street lights.
+Lumitech has been broadly adopted in most nations that are part of [[United Nations of Kaelvarra (Draft)]], and is used in most aspects of daily life, from [[Cleansing Stones]] that clean a person without the need to bathe to alarm clocks and street lights.
 
 Lumitech is also an industry of great power, contributing significantly to industry, transport, and war.
 

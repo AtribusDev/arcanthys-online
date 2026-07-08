@@ -1,7 +1,5 @@
 > [!infobox | right no-table-header wikipedia]
 > # Name
-> > [!caption|sban] Full width caption sizing
-> > <font size=1>**Pronunciation**: CRAN-ock SEE-ver</font>
 >
 > ![[File_Not_Present.webp| Banner+small ]]
 > ###### Geography
