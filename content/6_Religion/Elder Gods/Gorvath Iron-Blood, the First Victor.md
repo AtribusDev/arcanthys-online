@@ -2,6 +2,7 @@
 > # Gorvath Iron-Blood
 > > [!caption|sban] Full width caption sizing
 > > <font size=1>**Known As**: The Proving Flame, Father of the Worthy, Breaker of the Unproven</font>
+>
 > ###### Basic Information
 > | | |
 > | ---- | ---- |

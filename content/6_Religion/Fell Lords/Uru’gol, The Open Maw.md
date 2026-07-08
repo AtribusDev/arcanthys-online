@@ -10,6 +10,7 @@ aliases:
 > # Uru'gol
 > > [!caption|sban] Full width caption sizing
 > > <font size=1>**Known As**: The Open Maw, The Drowning Deep, Sovereign of the Last Breath, Fell Lord of the Crushing Abyss</font>
+>
 > ![[File_Not_Present.webp| Banner+small ]]
 > ###### Basic Information
 > | | |

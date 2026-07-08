@@ -1,6 +1,7 @@
 > [!infobox | right no-table-header wikipedia]
 > # Brand of Verdure
 > > [!caption|sban] Full width caption sizing
+>
 > ![[File_Not_Present.webp| Banner+small ]]
 
 The **Brand of Verdure** is a [[Blessedbrands|Blessedbrand]] that grants various magical benefits related to nature.

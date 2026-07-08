@@ -1,9 +1,6 @@
----
-title: Arcanthys
-description: A wiki documenting the world of Arcanthys, its cosmology, geography, peoples, factions, gods, history, and magic.
----
-
-![[Arcanthys Logo.png|200]]
+> [!infobox | right no-table-header wikipedia]
+> # Arcanthys
+> ![[Arcanthys Logo.png| Banner+small ]]
 
 **Arcanthys** is a world where life and magic share a single source, where an empire's ambition once nearly burned both away, and where every convenience born of magic still carries the risk of its own collapse.
 

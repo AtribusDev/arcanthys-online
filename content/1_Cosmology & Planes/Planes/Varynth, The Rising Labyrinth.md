@@ -7,6 +7,7 @@ aliases:
 >[!infobox | right no-table-header wikipedia]
 ># Varynth
 > > [!caption|sban] Full width caption sizing
+>
 > ![[Varynth, The Rising Labyrinth.png| Banner+small ]]
 > 
 > | | |
