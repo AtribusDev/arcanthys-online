@@ -29,3 +29,19 @@ a.internal,
 a.internal-link {
   background-color: transparent;
 }
+
+// Links to pages that don't exist yet ("broken" wikilinks), styled grey
+// like Obsidian's unresolved links instead of the normal accent color.
+// Requires disableBrokenWikilinks: true on the crawl-links plugin options
+// (set in quartz.config.yaml) — that's what actually tags these <a> tags
+// with the "broken" class in the first place.
+a.internal.broken,
+a.internal-link.broken {
+  color: var(--gray);
+  opacity: 1;
+
+  &:hover {
+    color: var(--gray);
+    opacity: 0.8;
+  }
+}
