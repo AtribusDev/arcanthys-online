@@ -1,0 +1,8 @@
+@use "./variables.scss" as *;
+
+:root {
+  --foo: #123456;
+}
+a.bar {
+  color: red;
+}

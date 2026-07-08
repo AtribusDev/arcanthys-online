@@ -1,3 +1,31 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// --- Overrides for the its-theme plugin (quartz-themes) ---
+// The active theme re-defines --lightgray to equal the page background
+// (var(--background-secondary)) and re-applies a red --highlight background
+// to internal links. Because theme CSS is injected in higher-priority
+// @layers than Quartz's own styles, edits to quartz/styles/base.scss alone
+// can't win against it — this file is emitted UNLAYERED, so it always wins
+// regardless of specificity or layer order. This also survives `quartz sync`
+// + a fresh CI build, unlike edits made directly to the cached plugin files
+// under .quartz/plugins (which are gitignored and get re-fetched from
+// scratch on every fresh install).
+
+:root {
+  // Keep --lightgray a visible, non-background-matching gray in both modes
+  // so dim UI elements (borders, dividers) and the graph view's resting-state
+  // links stay legible instead of blending into the page.
+  --lightgray: #b8c2d0;
+}
+
+:root[saved-theme="dark"] {
+  --lightgray: #4a5568;
+}
+
+// Internal (wiki) links: no highlight background box, just colored text.
+a.internal,
+a.internal-link {
+  background-color: transparent;
+}
