@@ -160,6 +160,20 @@ plugins:
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
+    options:
+      localGraph:
+        repelForce: 1.2
+        linkDistance: 60
+        centerForce: 0.4
+        fontSize: 0.45
+        opacityScale: 0.5
+        focusOnHover: true
+      globalGraph:
+        repelForce: 1.2
+        linkDistance: 60
+        centerForce: 0.3
+        fontSize: 0.45
+        opacityScale: 0.6
     layout:
       position: right
       priority: 10

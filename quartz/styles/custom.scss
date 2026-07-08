@@ -45,3 +45,12 @@ a.internal-link.broken {
     opacity: 0.8;
   }
 }
+
+// Obsidian ==highlight== markdown syntax: drop the background box entirely
+// (this is unrelated to the internal-link fixes above — it's the red box
+// behind terms like "Arcanarch" that come from ==double-equals== markup).
+.text-highlight {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+}
