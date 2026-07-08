@@ -58,7 +58,12 @@ plugins:
         dark: github-dark
       keepBackground: false
     order: 20
-  - source: github:quartz-community/obsidian-flavored-markdown
+  # Forked locally to fix the callout regex not tolerating a space before the
+  # metadata `|` separator (e.g. `[!infobox | right wikipedia]`), which leaked
+  # a stray `|` into the rendered data-callout-metadata attribute and left a
+  # visible sliver of the callout icon showing on infoboxes ("//" artifact).
+  # See local-plugins/obsidian-flavored-markdown/src/transformer.ts.
+  - source: ./local-plugins/obsidian-flavored-markdown
     enabled: true
     options:
       comments: true

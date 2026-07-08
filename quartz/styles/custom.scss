@@ -66,3 +66,35 @@ body a.internal-link.broken {
   padding: 0 !important;
   border-radius: 0 !important;
 }
+
+// Infobox callouts (its-theme) on mobile: the theme floats infoboxes right
+// on all viewport sizes (its own mobile un-float rule only fires inside the
+// Obsidian app via `.is-mobile`, which never exists in the browser DOM, so
+// it's a no-op on the actual site). A narrow floated box with body text
+// squeezed down its left side reads badly on small screens.
+//
+// Infoboxes are always the first callout in a page's markdown, ahead of the
+// body content, so simply removing the float lets the box stack as a
+// full-width block above the rest of the text — no DOM reordering needed,
+// and it keeps working automatically as pages gain or lose content.
+@media all and ($mobile) {
+  body .callout.callout[data-callout~="infobox"] {
+    float: none !important;
+    max-width: 100% !important;
+    width: auto !important;
+    margin: 0 0 1rem 0 !important;
+  }
+}
+
+// Infobox callouts (its-theme): the theme means to fully hide the callout
+// icon (it's redundant once the infobox has its own heading), but its rule
+// only zeroes `height` on .callout-icon. Quartz's own callout CSS still
+// applies `padding: 0.2rem 0` to that div (6.4px), so a thin sliver of the
+// div's background/mask-image (the default blue "note" pencil icon) stays
+// visible above the box content — this is the stray "//" mark. Zeroing
+// padding (and belt-and-suspenders: width) removes the sliver entirely.
+body .callout.callout[data-callout~="infobox"] > .callout-title .callout-icon {
+  height: 0 !important;
+  padding: 0 !important;
+  width: 0 !important;
+}
