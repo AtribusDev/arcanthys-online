@@ -5,13 +5,20 @@
 // --- Overrides for the its-theme plugin (quartz-themes) ---
 // The active theme re-defines --lightgray to equal the page background
 // (var(--background-secondary)) and re-applies a red --highlight background
-// to internal links. Because theme CSS is injected in higher-priority
-// @layers than Quartz's own styles, edits to quartz/styles/base.scss alone
-// can't win against it — this file is emitted UNLAYERED, so it always wins
-// regardless of specificity or layer order. This also survives `quartz sync`
-// + a fresh CI build, unlike edits made directly to the cached plugin files
-// under .quartz/plugins (which are gitignored and get re-fetched from
-// scratch on every fresh install).
+// to internal links via a "fallback for internal links" rule in the
+// quartz-themes plugin's TEMPLATE_CSS (`body a.internal-link { background-color:
+// rgb(from var(--highlight) r g b / 0.3); }`).
+//
+// That rule is NOT actually wrapped in a CSS @layer (verified via DevTools —
+// no "Layer" annotation shows above it, unlike neighboring theme rules that
+// really are layered). So it's unlayered, same as this file, and the fight
+// comes down to plain specificity: `body a.internal-link` (0,1,2) beats a
+// bare `a.internal-link` (0,1,1) because of the extra `body` ancestor
+// selector. Matching that `body` prefix here is what makes this override
+// actually win. This file survives `quartz sync` + a fresh CI build, unlike
+// edits made directly to the cached plugin files under .quartz/plugins
+// (which are gitignored and get re-fetched from scratch on every fresh
+// install).
 
 :root {
   // Keep --lightgray a visible, non-background-matching gray in both modes
@@ -25,8 +32,11 @@
 }
 
 // Internal (wiki) links: no highlight background box, just colored text.
-a.internal,
-a.internal-link {
+// `body` prefix matches the specificity of the theme's fallback rule (see
+// note above) — without it, the theme's more-specific selector wins even
+// though both are unlayered.
+body a.internal,
+body a.internal-link {
   background-color: transparent;
 }
 
@@ -35,8 +45,8 @@ a.internal-link {
 // Requires disableBrokenWikilinks: true on the crawl-links plugin options
 // (set in quartz.config.yaml) — that's what actually tags these <a> tags
 // with the "broken" class in the first place.
-a.internal.broken,
-a.internal-link.broken {
+body a.internal.broken,
+body a.internal-link.broken {
   color: var(--gray);
   opacity: 1;
 
