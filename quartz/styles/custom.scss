@@ -11,14 +11,15 @@
 //
 // That rule is NOT actually wrapped in a CSS @layer (verified via DevTools —
 // no "Layer" annotation shows above it, unlike neighboring theme rules that
-// really are layered). So it's unlayered, same as this file, and the fight
-// comes down to plain specificity: `body a.internal-link` (0,1,2) beats a
-// bare `a.internal-link` (0,1,1) because of the extra `body` ancestor
-// selector. Matching that `body` prefix here is what makes this override
-// actually win. This file survives `quartz sync` + a fresh CI build, unlike
-// edits made directly to the cached plugin files under .quartz/plugins
-// (which are gitignored and get re-fetched from scratch on every fresh
-// install).
+// really are layered). So it's unlayered, same as this file. Matching its
+// `body a.internal-link` specificity here (0,1,2) still wasn't enough on its
+// own: with equal specificity, the cascade falls back to source order, and
+// the theme's stylesheet is linked AFTER this one in <head>, so the theme's
+// rule wins the tie. Rather than keep chasing specificity/order, these use
+// !important to settle it outright, regardless of load order. This file
+// survives `quartz sync` + a fresh CI build, unlike edits made directly to
+// the cached plugin files under .quartz/plugins (which are gitignored and
+// get re-fetched from scratch on every fresh install).
 
 :root {
   // Keep --lightgray a visible, non-background-matching gray in both modes
@@ -32,12 +33,11 @@
 }
 
 // Internal (wiki) links: no highlight background box, just colored text.
-// `body` prefix matches the specificity of the theme's fallback rule (see
-// note above) — without it, the theme's more-specific selector wins even
-// though both are unlayered.
+// !important guarantees this beats the theme's fallback rule regardless of
+// specificity or stylesheet load order (see note above).
 body a.internal,
 body a.internal-link {
-  background-color: transparent;
+  background-color: transparent !important;
 }
 
 // Links to pages that don't exist yet ("broken" wikilinks), styled grey
@@ -47,11 +47,11 @@ body a.internal-link {
 // with the "broken" class in the first place.
 body a.internal.broken,
 body a.internal-link.broken {
-  color: var(--gray);
+  color: var(--gray) !important;
   opacity: 1;
 
   &:hover {
-    color: var(--gray);
+    color: var(--gray) !important;
     opacity: 0.8;
   }
 }
@@ -59,8 +59,10 @@ body a.internal-link.broken {
 // Obsidian ==highlight== markdown syntax: drop the background box entirely
 // (this is unrelated to the internal-link fixes above — it's the red box
 // behind terms like "Arcanarch" that come from ==double-equals== markup).
+// Same equal-specificity/load-order tie as internal links above (the theme's
+// `.text-highlight` rule matches on specificity alone), so !important again.
 .text-highlight {
-  background-color: transparent;
-  padding: 0;
-  border-radius: 0;
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
 }
