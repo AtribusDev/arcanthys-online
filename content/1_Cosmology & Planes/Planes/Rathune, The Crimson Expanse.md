@@ -8,7 +8,6 @@ aliases:
 >[!infobox | right no-table-header wikipedia]
 ># Rathune
 > > [!caption|sban] Full width caption sizing
->
 > ![[Rathune, The Crimson Expanse.png| Banner+small ]]
 > 
 > | | |

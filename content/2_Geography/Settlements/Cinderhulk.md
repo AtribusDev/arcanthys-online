@@ -8,7 +8,6 @@ Cinderhulk is built on top of, against, and into the colossal [[Lumitech]] human
 > # Cinderhulk
 > > [!caption|sban] Full width caption sizing
 > > <font size=1>**Pronunciation**: CRAN-ock SEE-ver</font>
->
 > ![[File_Not_Present.webp| Banner+small ]]
 > ###### Geography
 > | | |

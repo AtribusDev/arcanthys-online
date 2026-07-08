@@ -7,7 +7,6 @@ aliases:
 >[!infobox | right no-table-header wikipedia]
 ># Gildara
 > > [!caption|sban] Full width caption sizing
->
 > ![[Gildara, The Boundless Embrace.png| Banner+small]]
 > 
 > | | |
