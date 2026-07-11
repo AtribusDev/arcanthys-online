@@ -1,3 +1,7 @@
+---
+aliases:
+  - Changeling
+---
 > [!infobox | right no-table-header wikipedia]
 > # Changelings
 > ![[File_Not_Present.webp| Banner+small ]]

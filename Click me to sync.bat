@@ -3,4 +3,5 @@ cd /d "%~dp0"
 echo Running: npx quartz sync
 npx quartz sync
 echo.
-pause
+echo Done. Window will stay open - close it manually when you're finished.
+cmd /k

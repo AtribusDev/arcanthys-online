@@ -16,11 +16,12 @@ aliases:
 > | ---- | ---- |
 > | Titles & Aliases | The Unremembered, The Standing-In, The Second Face |
 > | Alignment | Lawful Evil |
+> | Created | [[Elves]], [[Doppelgangers]], indirectly [[Changelings]] |
 > | Symbol | A carved face with the outline of an older, different face still visible beneath it |
 > | Mortal Fear | Being Forgotten |
 >  
 
-**Ilvethra**, called the Unremembered, is one of the [[The Fell Lords|Fell Lords]]: an immortal fiendish demi-god credited with shaping the elves during the [[Age of Shaping]]. It embodies the fear of being forgotten, of a life, a name, or a deed leaving no trace and having therefore counted for nothing.
+**Ilvethra**, called the Unremembered, is one of the [[The Fell Lords|Fell Lords]]: an immortal fiendish demi-god credited with shaping the [[Elves|elves]] during the [[Age of Shaping]]. It embodies the fear of being forgotten, of a life, a name, or a deed leaving no trace and having therefore counted for nothing.
 
 # Description
 
