@@ -215,7 +215,11 @@ plugins:
     layout:
       position: left
       priority: 10
-  - source: github:quartz-community/darkmode
+  # Forked locally to make dark mode the default theme (the upstream plugin
+  # always follows the visitor's OS/browser color-scheme preference on first
+  # visit). An explicit toggle choice, once saved, still takes precedence.
+  # See local-plugins/darkmode/src/components/scripts/darkmode.inline.ts.
+  - source: ./local-plugins/darkmode
     enabled: true
     layout:
       position: left

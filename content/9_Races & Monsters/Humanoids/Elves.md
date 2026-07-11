@@ -34,6 +34,8 @@ Solvarian's dominion over the elves broken most of their culture and society. En
 
 Purposefully losing or altering a record of the Endless Tale is amongst the most serious offenses an elf could commit against their own community. The importance elves place on the Endless Tale doesn't come from pride, instead it comes from the knowledge of how much of their history is already lost and guarding what is left accordingly.
 
+Elves place the same weight on ruins left by their own ancestors from before the Dominion's era. Locating and studying such a site is treated as an extension of the same duty that sustains the Endless Tale. Any inscription, carving, or fragment of craft recovered is examined for what it can restore to the record, and once its contents are confirmed, they are folded into the Endless Tale alongside what has survived by word of mouth.
+
 ### The Rootbound and the Kindled
 
 Elven communities remain divided over what the Dominion's experiments mean for how elves should live in the modern world. The [[Rootbound]] hold that Lumitech and arcane industry are inseparable from what was done to their people, and largely withdraw from both, seeking instead to slowly rebuild what connection to Sylvara can still be recovered through land, ritual, and patience. Having returned to live in harmony with nature, nowadays often referred to as [[Wood Elves]] by other races.
