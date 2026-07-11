@@ -21,7 +21,7 @@ List of Blessed Covenants:
 | The [[Sigil Covenant]]      | The [[Brand of Warding]]    | [[Warding Arcanarch]]   | Protection                 |                                   |
 | The [[Stitchward Covenant]] | The [[Brand of Mending]]    | [[Cure Arcanarch]]      | Healers                    |                                   |
 | The [[Hearth Covenant]]     | The [[Brand of Repose]]     | [[Rest Arcanarch]]      | Inns and taverns           |                                   |
-| [[Veil Covenant]]           | The [[Brand of Silence]]    | [[Silence Arcanarch]]   | Espionage, suppression     |                                   |
+| The [[Veil Covenant]]       | The [[Brand of Silence]]    | [[Silence Arcanarch]]   | Espionage, suppression     |                                   |
 | [[Quarry Covenant]]         | The [[Brand of Quarry]]     | [[Hunt Arcanarch]]      | Hunting (for lumitech)     |                                   |
 # Leadership
 The leader of a blessed covenant is called a Vicar Arcanum.

@@ -4,29 +4,32 @@ A Fell Lord can spawn fiends or other creatures but most fiends are believed to 
 
 # Known Fell Lords
 
-| Name | Title                 | Embodies                          | Known About |
-| ---- | --------------------- | --------------------------------- | ----------- |
-|      |                       | Endless Conflict                  |             |
-|      |                       | Ruin & Collapse                   |             |
-|      |                       | Plague & Pestilence               |             |
-|      |                       | Decay & Corruption                |             |
-|      |                       | Poison & Venom                    |             |
-|      |                       | Predators & The Hunt              |             |
-|      |                       | Isolation & Abandonment           |             |
-|      | The Chain Eternal     | Slavery & Loss of Freedom         |             |
-|      |                       | Starvation                        |             |
-|      |                       | Madness                           |             |
-|      |                       | Natural Disasters                 |             |
-|      |                       | Paranoia                          |             |
-|      |                       | Fire & Uncontrollable Destruction |             |
-|      |                       | Massacre                          |             |
-|      | Mother of Carrion     | Vermin & Infestation              |             |
-|      | [[Uru’gol, The Open Maw]] | Drowning & The Unknown Depths     |             |
-|      | The Gilded Maw        | Greed                             |             |
-|      |                       | Addiction                         |             |
-|      |                       | Darkness & The End of Hope        |             |
-|      |                       | Identitiy Loss?                   |             |
-|      |                       | Tyranny                           |             |
-|      |                       | The Unknown Future                |             |
-|      |                       | Endless Cold                      |             |
+The below table is a work in progress, more aspects might be added or removed.
+
+| Name                                     | Title             | Embodies                          | Known About |
+| ---------------------------------------- | ----------------- | --------------------------------- | ----------- |
+|                                          |                   | Endless Conflict                  |             |
+|                                          |                   | Ruin & Collapse                   |             |
+|                                          |                   | Plague & Pestilence               |             |
+|                                          |                   | Decay & Corruption                |             |
+|                                          |                   | Poison & Venom                    |             |
+|                                          |                   | Predators & The Hunt              |             |
+| [[Ilvethra, The Unremembered\|Ilvethra]] | The Unremembered  | Being Forgotten                   |             |
+|                                          |                   | Isolation & Abandonment           |             |
+|                                          | The Chain Eternal | Slavery & Loss of Freedom         |             |
+|                                          |                   | Starvation                        |             |
+|                                          |                   | Madness                           |             |
+|                                          |                   | Natural Disasters                 |             |
+|                                          |                   | Paranoia                          |             |
+|                                          |                   | Fire & Uncontrollable Destruction |             |
+|                                          |                   | Massacre                          |             |
+|                                          | Mother of Carrion | Vermin & Infestation              |             |
+| [[Uru’gol, The Open Maw\|Uru’gol]]       | The Open Maw      | Drowning & The Unknown Depths     |             |
+|                                          | The Gilded Maw    | Greed                             |             |
+|                                          |                   | Addiction                         |             |
+|                                          |                   | Darkness & The End of Hope        |             |
+|                                          |                   | Identitiy Loss?                   |             |
+|                                          |                   | Tyranny                           |             |
+|                                          |                   | The Unknown Future                |             |
+|                                          |                   | Endless Cold                      |             |
 
