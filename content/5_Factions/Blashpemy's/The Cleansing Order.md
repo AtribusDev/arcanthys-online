@@ -8,7 +8,7 @@
 > | - | - |
 > | Base of Operations | [[Cinderhulk]] |
 > | Leader | Lord Marshal [[TODO, NAME]] |
-> | Patron | None; doctrine derived from the [[The Blasphemies|Blasphemies]] |
+> | Patron | None; doctrine derived from the [[The Blasphemies\|Blasphemies]] |
 > | Symbol | [[TODO, DESIGN SYMBOL]] |
 
 **The Cleansing Order** is a militant order of paladins based in [[Cinderhulk]], with commanderies stationed across [[Kaelvarra]]. Its members hunt Mageblight and pursue those who misuse magic, and their training and vows grant them abilities that make them unusually effective against practitioners of magic. The Order traces its founding doctrine to the declaration of [[The Final Peace]] by the [[The Blasphemies|Blasphemies]].

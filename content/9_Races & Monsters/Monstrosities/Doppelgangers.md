@@ -1,3 +1,9 @@
+---
+aliases:
+  - doppelganger
+  - doppelgangers
+  - Doppelganger
+---
 **Doppelgangers** are shapeshifting monstrosities capable of assuming the exact face, voice, and mannerisms of another person. The first doppelgangers were not born but made: spawned directly by [[Ilvethra, The Unremembered|Ilvethra]] during [[The Borrowed Faces]], formed from a fraction of the Fell Lord's own power to stand in for what it erases, and given flesh to act where Ilvethra itself, sealed within [[Arcanthys]], could not.
 
 # Physiology & Behaviour

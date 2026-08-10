@@ -11,80 +11,61 @@ aliases:
 > > [!caption|sban] Full width caption sizing
 > > <font size=1>**Known As**: The Open Maw, The Drowning Deep, Sovereign of the Last Breath, Fell Lord of the Crushing Abyss</font>
 >
-> ![[File_Not_Present.webp| Banner+small ]]
+> ![[Uru’gol, The Open Maw.png| Banner+small]]
 > ###### Basic Information
 > | | |
 > | ---- | ---- |
 > | Titles & Aliases | The Open Maw, The Drowning Deep, Sovereign of the Last Breath, Fell Lord of the Crushing Abyss |
 > | Alignment |  |
+> | Created | [[Krakens]] |
 > | Symbol |  |
 > | Mortal Fear | Drowning & The Unknown Depths |
 >  
 
-**Uru'gol**, also known as the Drowning Deep, is one of the [[Fell Lords]]: an immortal fiendish demi-god embodying the primal fear of being consumed by the depths, of suffocation, pressure, and the endless unknown beneath dark waters. It is most notorious for breaking its shackle and reigning during the [[Age of the Deep]], during which the seas rose to consume the majority of [[Arcanthys]].
+**Uru'gol**, also known as the Drowning Deep, is one of the [[The Fell Lords|Fell Lords]], an immortal fiendish demi-god embodying the primal fear of being consumed by the depths, of suffocation, pressure, and the endless unknown beneath dark waters. Legends hold it as most notorious for breaking its shackle and reigning during the [[Age of the Deep]], when the seas are said to have risen and consumed the majority of [[Arcanthys]].
 
 # Description
 
-Uru'gol takes the form of a colossal maw: a trench-like fissure running along the deepest part of the ocean floor, wide enough in places to swallow a fleet whole. Its edges are lined with row upon row of jagged, tooth-like stone, and the trench narrows into unlit depths that no diver or divination has ever mapped to an end. Innumerable tentacles extend upward from the trench, some no thicker than rigging rope and others large enough to crush a hull, reaching toward the surface to seize ships and drag them down.
-
-Sailors who have strayed near its territory describe the water above the Open Maw as unnaturally still, disturbed only by a slow, rhythmic pull, as though something vast were breathing beneath the waves. The pressure is said to build gradually rather than all at once, so that a ship may be drawn downward for hours before its crew understands what is happening. No light reaches the trench itself, and anything taken below is lost to total darkness long before it nears the teeth.
+Uru'gol is depicted as a colossal maw, wide enough to take a ship's hull whole and ringed with row upon row of broken, uneven teeth the size of a ship's mast. Set deep within the maw is a single gigantic eye, unblinking and larger than a ship's sail, fixed on whatever it swallows all the way down. A crown of tentacles surrounds the mouth, each limb longer than a ship and thick as a mainmast, coiling upward to seize a deck and drag it below.
 
 # Personality
 
-[[TODO]]
+Uru'gol shows no special interest in what it takes beyond the taking itself. Everything vanishes into it the same way, and beyond an appetite for consuming, what it actually wants remains unclear. Left unbound during the [[Age of the Deep]], it scattered Drowned Spawn through the flood and claimed pieces of Arcanthys for itself wherever the waters carried them, with no aim behind the claiming that has ever been identified.
+
+Uru'gol can be bargained with, but the logic behind which offers it accepts and which it refuses has never become clear. Two petitioners can offer the same tribute and meet entirely different fates. A pact with Uru'gol, once struck, is rarely broken: it does not relinquish the power it has granted or its claim on whoever holds it, regardless of how or why the bargain was made.
 
 # Powers
 
-Uru'gol's dominion is chiefly one of pressure, depth, and consumption. It is credited with:
-
-- **Spawning Corruption**: Producing Drowned Spawn, seed-like growths that mature into Lesser Maws far from the Open Maw itself
-- **Crushing Pressure**: Inflicting sensations of suffocation and unbearable pressure on those it targets, even at a distance from open water
-- **Command of the Deep**: Dominion over krakens and other creatures native to the ocean floor
-- **Tidal Reach**: A hand, by most accounts, in the rising sea levels of the [[Age of the Deep]]
+Uru'gol does not hold to any fixed trench, ridge, or basin. Where it currently lies is never known, and it can open its maw anywhere the water runs deep enough to hide it, closing on whatever crosses its path before withdrawing into the dark again. No ship or chart has ever marked a stretch of ocean as safe from it, since nowhere stays safe for long.
 
 # Worshippers
 
-Worship of Uru'gol is most often rooted in fear. A sailor might offer gold to the sea before embarking on a journey across the open ocean, and seafolk might offer sacrifices for protection from the many dangers of the deep.
-
-Its worship is not confined to mortals. Malevolent creatures native to the sea, merrow and sea hags among them, are drawn to the Drowning Deep, though none so completely as krakens.
-
-The Drowning Deep is not typically worshipped through formal doctrine. Instead, it is revered by cults that embrace themes of surrender and inevitability. Common beliefs include:
-
-- That all things are destined to return to the deep
-- That resistance to the tide is meaningless
-- That drowning is not death, but transformation
-
-Some sects actively seek out Drowned Spawn, cultivating the Lesser Maws they become into sacred sites, and leave offerings there for the Drowning Deep.
+Worship of Uru'gol is most often rooted in fear. Since no course can be charted around a danger with no fixed location, a sailor might offer gold to the sea before embarking on a journey across the open ocean, and seafolk might offer sacrifices for protection from the many dangers of the deep.
 
 ## Krakens and the Offerings
 
-Krakens worship Uru'gol as their creator, treating it as the pinnacle of what they could become. They are regarded as the chosen servants of the Drowning Deep, and during the [[Age of the Deep]], they ruled vast territories of the ocean, acting as intermediaries between the Fell Lord and the world.
+[[Krakens]] worship Uru'gol as their creator, treating it as the pinnacle of what they could become. They view themselves as the chosen servants of the Drowning Deep. During the [[Age of the Deep]], they ruled vast territories of the ocean, acting as intermediaries between the Fell Lord and the world.
 
-Their primary role is to deliver offerings to the Open Maw:
-
-- Ships and their crews
-- Coastal settlements
-- Creatures of great size or significance
-
-They go out of their way to inflict harm upon others to bring offerings to the Open Maw, and take great efforts to spread its influence. These offerings are cast into the abyss, where they are broken down into a substance described in some texts as "drowned essence": a fusion of water, memory, and corrupted life force.
+They go out of their way to inflict harm upon others to bring offerings to the Open Maw, and take great efforts to spread its influence. These offerings are cast deep into the abyss.
 
 # Relations
 
-[[TODO]]
+Uru'gol has no known positive relations with any other [[The Fell Lords|Fell Lord]].
 
 # History
 
 [[TODO]]
-[[TODO, YEARS]]
 
 ## The Age of the Deep
 
-The Drowning Deep is widely believed to have caused the rising sea levels of the [[Age of the Deep]].
+Legends describe that after the [[Age of the Baneful]], krakens released their fell lord from its shackles. Uru'gol's presence in the physical world immediately caused water levels to rise. Entire continents drowned, and aquatic creatures dominated [[Arcanthys]] for a long time thereafter.
 
-Even after its re-binding, the effects of this process did not fully reverse. Much of [[Arcanthys]] remains permanently altered, with vast regions lost beneath the waves.
+Those particularly affected by its unshackling were the [[Dwarves]] and other subterranean creatures, who had little escape once the flood flushed into their caverns. Many dwarven [[Wardholds|Wardholds]] were lost in this age. It is believed that Arcanthys still stands only because Uru'gol had no interest in freeing its fellow Fell Lords in turn, though what interest it did have has never been explained.
 
-## The Lesser Maws
+At the end of the [[Age of the Deep]] Uru'gol was shackled again. It remains a mystery by whom and how. The krakens and many other sea folk struggled heavily under the sudden disappearance of the ocean water. Much of Arcanthys remains permanently altered, with vast regions lost beneath the waves.
 
-Whilst it was unbound, the Drowning Deep produced many Drowned Spawn: dense, seed-like growths carried off by deep currents until they found a place to anchor, whether a region once submerged, a flooded cavern, or a fracture reached by groundwater. There a Drowned Spawn took root and grew into a Lesser Maw, a smaller echo of the Open Maw itself, marked by a funnel-shaped descent, jagged stone teeth, and a shaft of dark water leading down.
+### The Lesser Maws
 
-Because Drowned Spawn can travel through any waterway once connected to the sea, Lesser Maws are found well beyond the ocean's current borders, in regions that lay submerged during the Age of the Deep or in caverns reached only by ancient underground rivers. Land around a Lesser Maw grows waterlogged and faintly organic, and each site acts as a channel drawing essence back toward the Open Maw.
+Whilst it was unbound, Uru'gol produced many Drowned Spawn: dense, seed-like growths carried off by deep currents until they found a place to anchor. There a Drowned Spawn took root and grew into a Lesser Maw, a smaller echo of the Open Maw itself, anchored in place in a way Uru'gol never is.
+
+Lesser Maws are found well beyond the ocean's current borders, in regions that lay submerged during the Age of the Deep or in caverns reached only by underground rivers. Land around a Lesser Maw grows waterlogged and faintly organic, and each site acts as a channel drawing essence back toward Uru'gol itself, wherever in the deep it currently lies.

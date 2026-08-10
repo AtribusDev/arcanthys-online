@@ -18,33 +18,47 @@ aliases:
 > | Core Values | Continuity, communal memory, solidarity with other [[Freeborn]] peoples |
 > | Related | [[Shadar-Kai]], [[Sylvara, The Feywild]], [[Freeborn]] |
 
-**Elves** are a humanoid ([[Freeborn]]) people of Arcanthys, once long-lived and bound closely to [[Sylvara, The Feywild|Sylvara, the Feywild]]. That bond isn't what shaped modern elven society; its loss is. For generations, the [[The Dominion of Solvaris|Dominion of Solvaris]] experimented on elves to extend human life and sever ties between planes, and the damage from that era still shapes elven culture more than anything elves inherited from before it. Elves today remain divided over how to answer that history, and much of elven life is built around remembering what the Dominion tried to erase.
+**Elves** are a humanoid ([[Freeborn]]) people of Arcanthys, once long-lived and bound closely to [[Sylvara, The Feywild|Sylvara, the Feywild]]. The destruction of that bond during the Dominion era is what shaped modern elven society. For generations, the [[The Dominion of Solvaris|Dominion of Solvaris]] experimented on elves to extend human life and sever ties between planes, and the damage from that era still shapes elven culture more than anything elves inherited from before it. Elves today remain divided over how to answer that history, and much of elven life is built around remembering what the Dominion tried to erase.
 
 ## Physiology
 
-Elves are slender and typically stand somewhat shorter than the average human, with angular features and ears that taper to a point. Hair and eyes commonly run to shades uncommon among humans: silver, pale gold, deep green, or violet, a trait long attributed to the Feywild bond elven bloodlines once carried in full.
+Elves are slender and typically stand somewhat shorter than the average human, with angular features and ears that taper to a point. Hair and eyes commonly run to shades uncommon among humans: silver, pale gold, deep green, or violet, a trait linked to the Feywild bond elven bloodlines once carried in full.
 
-Most elves born since the Dominion's fall have regained a lifespan close to the historical norm, but a minority age unpredictably: years pass with no visible change, then grey hair, brittle joints, or frailty set in, sometimes over the course of weeks. Elves have taken to speaking of it as a sickness in its own right, [[The Silver Wilt]]. Certain signs hint at it beforehand, but none can confirm whether an elf carries the condition until the aging itself begins, and all elves live with that uncertainty as a lasting source of fear.
+Most elves born since the Dominion's fall have regained a lifespan close to the historical norm, but a minority age unpredictably: years pass with no visible change, then grey hair, brittle joints, or frailty set in, sometimes over the course of weeks. Elves have named this sickness [[The Silver Wilt]]. Certain signs may hint at it beforehand, but it is impossible to confirm if an elf carries the condition until the aging itself begins, a lasting source of fear that all elves carry.
+
+Elves do not sleep as most mortals do. In place of it they enter a trance, a lighter meditative rest that still leaves the mind active, and rise from it within a few hours fully restored.
+
+## Personality
+
+Elves are patient and unhurried, slow to raise voice or hand and difficult to provoke into panic. Their manner carries a natural reserve that strangers often read as coldness, though it is closer to a habit of watching before acting. That same reserve occasionally lapses into a quiet distractedness, moments where an elf's attention seems to drift elsewhere entirely, an echo of the fuller bond to Sylvara their bloodlines once carried.
+
+Patience of this kind was easier to sustain when a long life could be taken for granted. Modern elves carry no such guarantee: an elf raised with every expectation of centuries ahead may still, without warning, begin to age as [[The Silver Wilt]] sets in. Few elves let that possibility show in day-to-day conduct, but it tempers the ease with which they treat time as theirs to spend, and even young elves often carry a groundedness that would otherwise be unusual for so long-lived a people.
+
+Elves are unusually skilled at retaining detail: a name given once rarely slips their memory afterward. Left to trance, an elf's mind runs unbidden over its own portion of the Endless Tale, and it is common for an elf to recite fragments of it under their breath while still tranced, unaware they are doing so until roused.
+
+New company is sized up quickly and quietly, with elves watching in particular for the kind of ambition once shown toward their people by the [[The Dominion of Solvaris|Dominion of Solvaris]]. Strangers usually read this as distant politeness. Trust extended past that first appraisal, however, tends to run deep and hold steady.
 
 ## Culture
 
-### Continuity as Creed
+Solvarian dominion over the elves has broken most of their original culture and society. Enslaved, they responded by turning memory itself into an art. History, culture, legends and more were recited in full. Creating a new tradition, each bit of history orally shared added to their [Endless Tale](https://atribusdev.github.io/arcanthys-online/endless-tale).
 
-Solvarian's dominion over the elves broken most of their culture and society. Enslaved they responded by turning memory itself into an art. History, culture, legends and more were recited in full. Creating a new tradition, each bit of history orally shared added to their [[Endless Tale]].
+Purposefully losing or altering a record of the Endless Tale is amongst the most serious offenses an elf could commit against their own community. The importance elves place on the Endless Tale comes from the knowledge of how much of their history is already lost, and from guarding what remains accordingly.
 
-Purposefully losing or altering a record of the Endless Tale is amongst the most serious offenses an elf could commit against their own community. The importance elves place on the Endless Tale doesn't come from pride, instead it comes from the knowledge of how much of their history is already lost and guarding what is left accordingly.
-
-Elves place the same weight on ruins left by their own ancestors from before the Dominion's era. Locating and studying such a site is treated as an extension of the same duty that sustains the Endless Tale. Any inscription, carving, or fragment of craft recovered is examined for what it can restore to the record, and once its contents are confirmed, they are folded into the Endless Tale alongside what has survived by word of mouth.
+Elves place the same weight on ruins left by their own ancestors from before the Dominion's era. Locating and studying such a site is treated as an extension of the same duty that sustains the Endless Tale. Any inscription or fragment of craft recovered is examined for what it can restore to the record, and once its contents are confirmed, they are folded into the Endless Tale alongside what has survived by word of mouth.
 
 ### The Rootbound and the Kindled
 
-Elven communities remain divided over what the Dominion's experiments mean for how elves should live in the modern world. The [[Rootbound]] hold that Lumitech and arcane industry are inseparable from what was done to their people, and largely withdraw from both, seeking instead to slowly rebuild what connection to Sylvara can still be recovered through land, ritual, and patience. Having returned to live in harmony with nature, nowadays often referred to as [[Wood Elves]] by other races.
+Elven communities remain divided over what the Dominion's experiments mean for how elves should live in the modern world. The [Rootbound](https://atribusdev.github.io/arcanthys-online/rootbound) hold that Lumitech and arcane industry are inseparable from what was done to their people, and largely withdraw from both, seeking instead to slowly rebuild what connection to Sylvara can still be recovered through land, ritual, and patience. Having returned to live in harmony with nature, they are now often called [Wood Elves](https://atribusdev.github.io/arcanthys-online/wood-elves) by other peoples.
 
-The [[Kindled]] argue the opposite: that abandoning the knowledge left by Solvaris only leaves it for someone else to misuse again, and work deliberately within institutions such as the [[Blessed Covenants]] to keep watch over that knowledge themselves, maintaining the infrastructure built from it rather than letting it fall into less careful hands. Neither faction resents the other and each respects the other's choice.
+The [Kindled](https://atribusdev.github.io/arcanthys-online/kindled) argue the opposite: that abandoning the knowledge left by Solvaris only leaves it for someone else to misuse again, and work deliberately within institutions such as the [Blessed Covenants](https://atribusdev.github.io/arcanthys-online/5_factions/covenants/blessed-covenants) to keep watch over that knowledge themselves, maintaining the infrastructure built from it. Neither faction resents the other and each respects the other's choice.
 
-## Naming Customs: kept-names
+## Habitat
 
-An elf receives a birth name in infancy, chosen by their parents with no particular ceremony attached. Later in life, often at the death of a relative, mentor, or close friend whose own history was incomplete or at risk of being forgotten, an elf may take up a kept-name: a second name carried afterward specifically to keep that person, or occasionally an erased custom or lost place, from disappearing from living memory entirely. An elf is not limited to a single kept-name and may take up another later in life; some carry several by the time they die. A kept-name is used alongside the birth name rather than replacing it, and elves introduce themselves with all of them when the context calls for it.
+[[TODO, ELVEN HABITAT]]
+
+## Naming Customs
+
+An elf receives a birth name in infancy, chosen by their parents with no particular ceremony attached. Later in life, often at the death of a relative, mentor, or close friend whose own history was incomplete or at risk of being forgotten, an elf may take up a kept-name: a second name carried afterward specifically to keep that person, or occasionally an erased custom or lost place, from disappearing from living memory entirely. An elf is not limited to a single kept-name and may take up another later in life; some carry several by the time they die. An elf keeps the birth name once a kept-name is taken, and introduces themselves with all of them when the context calls for it.
 
 > _"Fenrion, who keeps the name of Ashalle."_
 > _"Ilyrra, who keeps the name of Doresh, and the name of the Vale road."_
@@ -59,17 +73,17 @@ An elf on their deathbed shares stories of the names they have kept, so that tho
 
 ### Before the Dominion
 
-Elven tradition credits their creation to [[Ilvethra, The Unremembered|Ilvethra]], one of the [[The Fell Lords|Fell Lords]], said to have shaped the first elves during the [[Age of Shaping]] and given them their lasting affinity for [[Sylvara, The Feywild|Sylvara]]. Elves hold no worship or willing connection to their creator today; what survives instead is an old, inherited dread of it, rarely explained and rarely questioned.
+Legends say [[Ilvethra, The Unremembered|Ilvethra]], one of the [[The Fell Lords|Fell Lords]], shaped the first elves during the [[Age of Shaping]] and gave them their lasting affinity for [[Sylvara, The Feywild|Sylvara]]. Elves hold no worship or willing connection to their creator today. What survives is an old, inherited dread of it, rarely explained and rarely questioned.
 
 The oldest surviving accounts of the [[Age of Shaping]] count elves among the mortal peoples given form in that era. It is said that the elves fled to [[Sylvara, The Feywild|Sylvara]] when the world was assaulted by aberrations during the [[Age of the Baneful]], and returned only near the end of the [[Age of the Deep]]. Little reliable detail survives from this period, but elven oral legend tells of great floods pouring into their settlements, with the currents carrying them to a new world.
 
-Elves were also the target of [[The Borrowed Faces]], an incursion of [[Doppelgangers]] spawned by a weakening in Ilvethra's seals, which produced the first [[Changelings]] before it was uncovered and stopped. Elven communities of the time could not accept the changelings for what they were, and shunned and exiled them rather than integrate them, a decision still remembered as one of the harsher chapters of elven history.
+Elves were also the target of [[The Borrowed Faces]], an incursion of [[Doppelgangers]] spawned by a weakening in Ilvethra's seals, which produced the first [[Changelings]] before it was uncovered and stopped. Elven communities of the time could not accept the changelings for what they were and responded by shunning and exiling them.
 
 ### Under the Dominion
 Once the Dominion's arcane research matured, Solvarian scholars turned their attention to elves, drawn by their natural affinity for magic and their unusually long lives. Both traits served the Dominion's ambitions to manipulate the planes and master the flow of time, and elves became one of its central test subjects.
 
-By the time the Dominion fell, the cost for elves was severe and mostly beyond repair. Elven lifespans had dropped sharply, and the bond many elves carried to Sylvara was weakened. It was discovered that completely severing the bond between sylvara and elf was fatal. In these experiments the researched grafted on a thin bond to [[Noctyra, The Shadowfell|Noctyra]] instead. Those who survived the graft became the ancestors of the [[Shadar-Kai]], who count as a people of their own today.
+By the time the Dominion fell, the cost for elves was severe and mostly beyond repair. Elven lifespans had dropped sharply, and the bond many elves carried to Sylvara was weakened. It was discovered that completely severing the bond between Sylvara and elf was fatal. In these experiments the researchers grafted on a thin bond to [[Noctyra, The Shadowfell|Noctyra]] instead. Those who survived the graft became the ancestors of the [[Shadar-Kai]], who count as a people of their own today.
 
 ### The Second Dawn and After
 
-The Second Dawn ended the experiments. Surviving elven communities took up the [[Freeborn]] identity alongside dwarves, orcs, and the Dominion's other former bonded castes, and split into the [[Rootbound]] and the [[Kindled]] over what to do with what Solvaris had learned. Most elves born since the Dominion's fall have regained a lifespan close to the old norm, but the generation that lived through the Dominion's research, and the smaller number born since who still age without warning, remain as a reminder that the wound never fully closed.
+The Second Dawn ended the experiments. Surviving elven communities took up the [[Freeborn]] identity alongside dwarves, orcs, and the Dominion's other former bonded castes, and split into the [[Rootbound]] and the [[Kindled]] over what to do with what Solvaris had learned. Most elves born since the Dominion's fall have regained a lifespan close to the old norm, but the generation that lived through the Dominion's research, and the smaller number born since who still age without warning, continue to feel its effects directly.

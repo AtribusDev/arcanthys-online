@@ -2,6 +2,12 @@
 aliases:
   - Orc
 ---
+THIS IS VERY HEAVILY STILL A WIP [[TODO]]
+
+
+
+
+
 > [!infobox | right no-table-header wikipedia]
 > # Orcs
 > ![[File_Not_Present.webp| Banner+small ]]
@@ -27,6 +33,12 @@ aliases:
 
 Orcs are powerfully built, standing taller and heavier than most humans, with ash-grey to deep umber skin often compared to cooled metal or scorched stone. Lower tusks, heavy brows, and coarse dark hair are near universal. Hair and beards are commonly worn long and braided, knotted through with iron rings, teeth, or bone chips taken from past trials, so that an orc's braids can often be read like a rough tally of what they have survived. Scarring is treated the same way: not hidden, not regretted, and read as proof of trials rather than misfortune. Orcs who reach old age unscarred are viewed with quiet suspicion rather than admiration.
 
+## Personality
+
+### Fear of the Deep
+
+Orcs carry a cultural unease around deep, open water that predates any individual memory of why, widely traced to the [[Age of the Deep]], when the ancestors of the orcs lived confined to the world's highest ground while krakens and the Drowning Deep ruled everything below. Even now, orcs avoid boats of any kind wherever they can help it, preferring to ford a river, take a bridge, or walk far out of their way rather than trust their weight to open water; even orc raiding companies travel overland for this reason, striking fast and withdrawing well ahead of pursuit rather than risk a boat. A hold reachable only by water is, in practice, far safer from orc raids than one that can be reached on foot. Those who take to boats anyway are often regarded as having something to prove, or something wrong with them.
+
 ## Culture
 
 ### Faith of the Forge
@@ -35,15 +47,15 @@ Most orcs, devout or lapsed, are raised on the doctrine of Gorvath Iron-Blood: t
 
 Orcs who die well are believed to pass into the [[Hall of the Worthy|Hall of the Worthy]], Gorvath's afterlife, where combat continues as celebration rather than trial. Orcs speak of this fate plainly and without dread; a warrior's funeral is closer to a boast than a mourning.
 
-### Holds and Clans
+### Leadership by Challenge
 
-Without a central nation, orc society is organized by clan and hold rather than realm. A hold is built around a great meadhall, the seat of a chief and the gathering place for feasts, trials, and disputes. Leadership is never assumed to be permanent; any chief can be challenged for their seat, and a challenge is settled openly before the hold rather than resolved in private. Clans without land of their own often live and travel as raiding companies, following whichever chief currently commands the most respect.
+Leadership within a hold or raiding company is never assumed to be permanent; any chief can be challenged for their seat, and a challenge is settled openly before the hold rather than resolved in private.
 
-Orc raiding companies travel by land, striking fast and withdrawing overland well ahead of pursuit. Crossing water is treated as a last resort rather than a route; a raiding party will go far out of its way to ford a river or take a bridge rather than risk a boat, and a hold reachable only by water is, in practice, far safer from orc raids than one that can be reached on foot.
+## Habitat
 
-### Fear of the Deep
+### Holds Along the Coast
 
-Orcs carry a cultural unease around deep, open water that predates any individual memory of why. It is widely traced to the [[Age of the Deep]], when the ancestors of the orcs lived confined to the world's highest ground while krakens and the Drowning Deep ruled everything below. Even now, orcs avoid boats of any kind wherever they can help it, preferring to ford a river, take a bridge, or walk far out of their way rather than trust their weight to open water. Those who take to boats anyway are often regarded as having something to prove, or something wrong with them.
+Without a central nation, orcs live scattered across the cold coastal highlands and fjord country reclaimed after the [[Age of the Deep]], organized by hold and clan rather than realm. A hold is built around a great meadhall, the seat of a chief and the gathering place for feasts, trials, and disputes. Clans without land of their own often live and travel as raiding companies instead, following whichever chief currently commands the most respect.
 
 ## Naming Customs
 

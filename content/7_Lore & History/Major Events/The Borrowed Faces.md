@@ -11,7 +11,7 @@ aliases:
 > | | |
 > | ---- | ---- |
 > | Date | [[TODO, YEARS]] |
-> | Cause | A weakening in the seals binding [[Ilvethra, The Unremembered|Ilvethra]] |
+> | Cause | A weakening in the seals binding [[Ilvethra, The Unremembered\|Ilvethra]] |
 > | Notable Effects | First recorded [[Doppelgangers]]; origin of the [[Changelings]] |
 > | Aftermath | Ilvethra's seals strengthened; changelings shunned and exiled by elven society |
 

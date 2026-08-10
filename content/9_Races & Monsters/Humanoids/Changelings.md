@@ -10,6 +10,7 @@ aliases:
 > | ---- | ---- |
 > | Type | Humanoid, born of elf and doppelganger parentage |
 > | Homeland | [[TODO]] |
+> | Creator | Indirectly [[Ilvethra, The Unremembered\|Ilvethra]] |
 > | Lifespan | Adulthood around age 20, can live to be 750 years old.  |
 > ###### Society
 > | | |
@@ -24,28 +25,36 @@ aliases:
 
 ## Physiology
 
-Changelings inherit a partial measure of their doppelganger parentage. Most can alter their facial features, coloring, and voice to resemble another humanoid of similar build, though the change is never as complete or convincing as a true doppelganger's and unlike doppelgangers they cannot change their clothing and equipment.
+Changelings inherit a partial measure of their doppelganger parentage. They can alter their physical form, including hair and voice, but unlike [[Doppelgangers|doppelgangers]] they cannot change their clothing or equipment.
 
-A changeling's true, unshaped form resembles an elf with unusually plain, unmemorable features. This shapeshifting draws from their doppelganger heritage directly and is unrelated to [[Ilvethra, The Unremembered|Ilvethra]]'s own gift for standing in another's place; a changeling's altered face carries none of the subtle wrongness that marks Ilvethra's own substitutions.
+When in their true or natural form, a changeling looks rather like a doppelganger, with a lesser resemblance to a regular humanoid; in comparison to a [[Humans|human]], they appear faded and lacking detail and might be mistaken for someone with albinism. A typical changeling has skin of a pale grey hue, thin hair of a light silvery shade, and large eyes that are blank white. Their nose and mouth are barely noticeable, so they seem expressionless and almost featureless.
 
-## Culture
+## Personality & Culture
 
-Since their exile, changelings have never formed a single unified society, instead splintering into numerous separate tribes. Most tribes favour remote and secluded locations, deliberately settling away from the peoples who once refused them a place among them.
+### Wary Self-Reliance
 
-A tribe provides for itself by its own means wherever possible, but its members periodically travel to nearby settlements to acquire goods and materials they cannot produce themselves. A changeling making such a journey always wears an assumed face for its duration, reverting to their true, unshaped form only once safely back among their tribe.
+Generations of exile have left changelings instinctively cautious around outsiders and reluctant to expose themselves to a world that has never welcomed them; venturing beyond a tribe's own supply journeys is rare, and most changelings are content to leave the wider world alone. Within a tribe, this same caution turns to its opposite: changelings are known for a strong, protective sense of kinship, one that grows directly out of having so few who will ever fully accept them.
 
-Venturing further into the wider world, beyond these brief supply journeys, is rare among changelings. Their history of exile leaves most unwilling to expose themselves to a world that has never welcomed them. Even so, a changeling is occasionally born who chooses the life of an adventurer, leaving the tribe behind to travel openly among other peoples.
+### Tribes Apart
+
+Since their exile, changelings have never formed a single unified society, instead splintering into numerous separate tribes, each self-governing and provisioning for itself by its own means wherever possible.
+
+## Habitat
+
+### Remote Tribal Holds
+
+Most changeling tribes favor remote locations, deliberately settling away from the peoples who once refused them a place among them. A tribe unable to produce everything it needs still periodically sends members to nearby settlements to acquire the rest, and a changeling making such a journey always wears an assumed face for its duration.
 
 ## Relations with Other Peoples
 
-Changelings carry the weight of their origins openly among other races. Many regard them with deep mistrust, an inheritance of the fear surrounding [[The Borrowed Faces]] and the changelings' blood ties to [[Doppelgangers]]. Changelings themselves often describe their people as hunted, a feeling reinforced by generations of exile and suspicion.
+Changelings rarely reveal their true nature to others. Many regard them with deep mistrust, an inheritance of the fear surrounding [[The Borrowed Faces]] and the changelings' blood ties to [[Doppelgangers]].
 
-It is rumoured that the [[Veil Covenant]] maintains contact with certain changeling tribes, though nothing has been confirmed. For most people of [[Arcanthys]], these rumours are the only reason they know changelings exist at all, and they do little but deepen the mistrust already surrounding them.
+It is rumored that the [[Veil Covenant]] maintains contact with certain changeling tribes, though nothing has been confirmed. For most people of [[Arcanthys]], these rumors are the only reason they know changelings exist at all, and they do little but deepen the mistrust already surrounding them.
 
 ## History
 
 [[TODO, YEARS]]
-Changelings were born during [[The Borrowed Faces]], when doppelgangers spawned by [[Ilvethra, The Unremembered|Ilvethra]] infiltrated elven communities and took the place of missing or murdered loved ones. The unions formed during this period, between elves and doppelgangers still wearing borrowed faces, produced the first changelings. See [[The Borrowed Faces]] for the fuller account of the incursion itself.
+Changelings were born during [[The Borrowed Faces]], when doppelgangers spawned by [[Ilvethra, The Unremembered|Ilvethra]] infiltrated elven communities and took the place of missing or murdered loved ones. The unions formed during this period, between elves and doppelgangers, produced the first changelings.
 
-When the plot was uncovered, the seals binding Ilvethra were strengthened specifically to sever whatever hold the Fell Lord might otherwise have claimed over these children, but this did nothing to ease elven attitudes toward the changelings themselves. The elves of that era could not accept what the changelings were or where they had come from, and rather than integrate them, elven communities shunned and exiled them, forcing changelings to build a life apart from the people whose blood they partly shared.
+When the plot was uncovered, the seals binding Ilvethra were strengthened. This severed whatever hold the Fell Lord might otherwise have claimed over these children, but this did nothing to ease elven attitudes toward the changelings themselves. The elves of that era could not accept what the changelings were or where they had come from. They were shunned and exiled, forcing changelings to build a life apart from the people whose blood they partly shared.
 
